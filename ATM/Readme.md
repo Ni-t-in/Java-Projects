@@ -19,7 +19,7 @@ This project perform various function such as :
  - Deposit funds
  - Transfer funds
  - Transaction history  
-## How to run this project
+### How to run this project
 Step 1 : Download the source code files  
 Step 2 : Open command prompt as administrator  
 Step 3 : To change drive use DriveName: eg. **D:**  
