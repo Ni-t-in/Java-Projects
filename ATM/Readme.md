@@ -1,5 +1,5 @@
 # ATM  
-## Automatic Teller Machine
+## Automated Teller Machine
 ### Description
 This is terminal based project built on Java language using VS Code.  
   
