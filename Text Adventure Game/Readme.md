@@ -1,4 +1,4 @@
-# BlackJack  
+# Text Adventure Game  
 ### Description
 This is terminal based project built on Java language using VS Code.  
   
