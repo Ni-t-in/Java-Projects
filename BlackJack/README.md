@@ -19,7 +19,7 @@ Step 1 : Download the source code files
 Step 2 : Open command prompt as administrator  
 Step 3 : To change drive use DriveName: eg. **D:**  
 Step 4 : To change directory/folder use cd FolderName eg. **cd Source Code Files**  
-Step 5 : Compile the ATM.java file using **javac Gamerunner.java**  
+Step 5 : Compile the Gamerunner.java file using **javac Gamerunner.java**  
 Step 6 : Run the compiled java file using **java Gamerunner.java**  
 Suppose your command prompt started from C drive and downloaded folder is in D drive
 ```
